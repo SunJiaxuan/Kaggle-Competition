@@ -1,9 +1,3 @@
-# edX-MIT Analytics Edge (Spring 2015): Kaggle Competition
-# Author: Shan Lu (GitHub: baizhima) 
-# Contact: shanlu at brown dot edu
-# Affiliation: Brown University, Computer Science
-# Date: Apr. 25th, 2015
-
 # Set environment variables (locale to English)
 Sys.setlocale("LC_ALL","C")
 Sys.setenv(LANG="en")
